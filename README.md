@@ -1,4 +1,5 @@
 # shopping
+<<<<<<< HEAD
 
 ## Project setup
 ```
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+vue的项目
+>>>>>>> c705e7aa4b62b7b36447c41a6d2c03a0c507e0e3
